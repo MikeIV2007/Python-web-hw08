@@ -1,0 +1,4 @@
+Start Docker desktop and run rabbitmq container
+start MongoDB compass
+First start producer.py - creats fake conats and queue
+Second start consumer.py - perform all tasks in queue
